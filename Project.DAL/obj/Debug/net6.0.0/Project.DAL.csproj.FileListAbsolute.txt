@@ -1,0 +1,12 @@
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\bin\Debug\net6.0.0\Project.DAL.deps.json
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\bin\Debug\net6.0.0\Project.DAL.dll
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\bin\Debug\net6.0.0\Project.DAL.pdb
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\obj\Debug\net6.0.0\Project.DAL.csproj.AssemblyReference.cache
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\obj\Debug\net6.0.0\Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\obj\Debug\net6.0.0\Project.DAL.AssemblyInfoInputs.cache
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\obj\Debug\net6.0.0\Project.DAL.AssemblyInfo.cs
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\obj\Debug\net6.0.0\Project.DAL.csproj.CoreCompileInputs.cache
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\obj\Debug\net6.0.0\Project.DAL.dll
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\obj\Debug\net6.0.0\refint\Project.DAL.dll
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\obj\Debug\net6.0.0\Project.DAL.pdb
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.DAL\obj\Debug\net6.0.0\ref\Project.DAL.dll

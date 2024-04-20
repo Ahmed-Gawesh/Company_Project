@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\css\\AuthStyle.css",
+      "PackagePath": "staticwebassets\\css\\AuthStyle.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\files\\Images\\77c3953b-fca5-41c1-9b8a-ef6c66aa0f57IMG-20220209-WA0000.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\77c3953b-fca5-41c1-9b8a-ef6c66aa0f57IMG-20220209-WA0000.jpg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\MVC\\Company\\Project.PL\\Project.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0.0\\staticwebassets\\msbuild.Project.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0.0\\staticwebassets\\msbuild.build.Project.PL.props",
+      "PackagePath": "build\\Project.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0.0\\staticwebassets\\msbuild.buildMultiTargeting.Project.PL.props",
+      "PackagePath": "buildMultiTargeting\\Project.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0.0\\staticwebassets\\msbuild.buildTransitive.Project.PL.props",
+      "PackagePath": "buildTransitive\\Project.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

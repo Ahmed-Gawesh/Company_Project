@@ -1,0 +1,15 @@
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\bin\Debug\net6.0.0\Project.BL.deps.json
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\bin\Debug\net6.0.0\Project.BL.dll
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\bin\Debug\net6.0.0\Project.BL.pdb
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\bin\Debug\net6.0.0\Project.DAL.dll
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\bin\Debug\net6.0.0\Project.DAL.pdb
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\obj\Debug\net6.0.0\Project.BL.csproj.AssemblyReference.cache
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\obj\Debug\net6.0.0\Project.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\obj\Debug\net6.0.0\Project.BL.AssemblyInfoInputs.cache
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\obj\Debug\net6.0.0\Project.BL.AssemblyInfo.cs
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\obj\Debug\net6.0.0\Project.BL.csproj.CoreCompileInputs.cache
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\obj\Debug\net6.0.0\Project.BL.csproj.CopyComplete
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\obj\Debug\net6.0.0\Project.BL.dll
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\obj\Debug\net6.0.0\refint\Project.BL.dll
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\obj\Debug\net6.0.0\Project.BL.pdb
+F:\.NetCourse\Assignments c#\MVC\Company\Project.PL\Project.BL\obj\Debug\net6.0.0\ref\Project.BL.dll

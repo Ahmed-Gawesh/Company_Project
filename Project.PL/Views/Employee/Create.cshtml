@@ -1,0 +1,27 @@
+﻿@model EmployeeViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create New Employee</h1>
+<br />
+<br />
+@if (TempData["Message"] is not null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+
+}
+
+<form asp-action="Create" enctype="multipart/form-data">  @*Recive All Types*@
+    <partial name="PartialViews/_CreateEditView" />
+
+    <input type="submit" value="Submit" class="btn btn-primary" />||
+    <a asp-action="Index" class="btn btn-danger">Back To List</a>
+
+
+</form>
+@section ValidationScriptSection{
+    <partial name="_ValidationScriptsPartial" />
+}

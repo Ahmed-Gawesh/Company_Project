@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\LORD TRADE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\LORD TRADE\\.nuget\\packages"
+    ]
+  }
+}
